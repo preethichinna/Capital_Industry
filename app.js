@@ -53,7 +53,7 @@ const products = [
     id: "mobile-dispensers",
     name: "Mobile Dispensers",
     description: "Mobile dispenser manufacturing for customer applications. Tell us about your intended use.",
-    image: "assets/icapital-industries-mobile-dispenser.jpg",
+    image: "capital-industries-mobile-dispenser.jpg",
     alt: "Mobile dispenser vehicle pictured in the Capital Industries brochure"
   }
 ];
