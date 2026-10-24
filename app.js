@@ -78,7 +78,7 @@ const galleryItems = [
   { title: "Trailers", image: products[4].image, alt: products[4].alt },
   { title: "Press brake machine works", image: products[6].image, alt: products[6].alt },
   { title: "Mobile dispenser", image: products[7].image, alt: products[7].alt },
-  { title: "Capital Industries facility", image: "assets/images/about/capital-industries-facility.jpg", alt: "Capital Industries facility pictured in the supplied brochure" }
+  { title: "Capital Industries facility", image: "capital-industries-facility.jpg", alt: "Capital Industries facility pictured in the supplied brochure" }
 ];
 
 const iconPaths = {
