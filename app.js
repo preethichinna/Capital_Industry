@@ -3,7 +3,7 @@ const products = [
     id: "petroleum-tankers",
     name: "Petroleum Tankers",
     description: "Petroleum tanker manufacturing for transport applications. Contact us to discuss your intended use and requirements.",
-    image: "assets/images/products/capital-industries-petroleum-tanker.jpg",
+    image: "capital-industries-petroleum-tanker.jpg",
     alt: "Petroleum tanker featured in the supplied Capital Industries brochure",
     approval: "PESO Approved — as identified for the petroleum tanker product in the brochure."
   },
@@ -11,49 +11,49 @@ const products = [
     id: "underground-storage-tanks",
     name: "Underground Storage Tanks",
     description: "Underground storage tank fabrication. Share your application and project needs with our team.",
-    image: "assets/images/products/capital-industries-underground-storage-tank.jpg",
+    image: "capital-industries-underground-storage-tank.jpg",
     alt: "Underground storage tank product image from the Capital Industries brochure"
   },
   {
     id: "shipping-containers",
     name: "Shipping Containers",
     description: "Container fabrication for industrial and transport applications. Enquire to discuss your requirement.",
-    image: "assets/images/products/capital-industries-shipping-container.png",
+    image: "capital-industries-shipping-container.png",
     alt: "Shipping container product image from the Capital Industries brochure"
   },
   {
     id: "water-tanks",
     name: "Water Tanks",
     description: "Water tank manufacturing for customer requirements. Get in touch to discuss an application.",
-    image: "assets/images/products/capital-industries-water-tank.png",
+    image: "capital-industries-water-tank.png",
     alt: "Water tanker vehicle featured in the Capital Industries brochure"
   },
   {
     id: "trailers",
     name: "Trailers",
     description: "Trailer manufacturing for industrial and road transport needs. Share your project details to enquire.",
-    image: "assets/images/products/capital-industries-trailer.jpg",
+    image: "capital-industries-trailer.jpg",
     alt: "Trailer product image from the Capital Industries brochure"
   },
   {
     id: "lorry-cabins",
     name: "Lorry Cabins",
     description: "Lorry cabin and automobile body manufacturing. Contact us to discuss your vehicle body requirement.",
-    image: "assets/images/products/capital-industries-lorry-cabin.jpg",
+    image: "capital-industries-lorry-cabin.jpg",
     alt: "Lorry cabin product image from the Capital Industries brochure"
   },
   {
     id: "fabrication-machines",
     name: "Shearing & Press Brake Machine Works",
     description: "Shearing and press brake machine works for fabrication requirements. Enquire about your project.",
-    image: "assets/images/products/capital-industries-press-brake.jpg",
+    image: "capital-industries-press-brake.jpg",
     alt: "Press brake machine product image from the Capital Industries brochure"
   },
   {
     id: "mobile-dispensers",
     name: "Mobile Dispensers",
     description: "Mobile dispenser manufacturing for customer applications. Tell us about your intended use.",
-    image: "assets/images/products/capital-industries-mobile-dispenser.jpg",
+    image: "assets/icapital-industries-mobile-dispenser.jpg",
     alt: "Mobile dispenser vehicle pictured in the Capital Industries brochure"
   }
 ];
