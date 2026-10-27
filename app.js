@@ -327,7 +327,7 @@ document.querySelectorAll("img").forEach((image) => {
   image.addEventListener("error", () => {
     if (image.dataset.fallback) return;
     image.dataset.fallback = "true";
-    image.src = "assets/images/image-fallback.svg";
+    image.src = "image-fallback.svg";
     image.alt = "Illustrative industrial image unavailable";
   });
 });
